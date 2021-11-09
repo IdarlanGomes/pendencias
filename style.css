@@ -9,9 +9,9 @@ body{
 .pend{
     border-radius: 10px;
     background-color: rgb(221, 219, 74);
-    padding: 10px 1px 5px 10px ;
-    height: 390px;
-    width: 390px;
+    padding: 1px 1px 5px 10px ;
+    height: 380px;
+    width: 380px;
     /*min-height: 300px;
     max-height: 450px;
     min-width: 300px;
