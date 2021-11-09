@@ -59,6 +59,10 @@ body{
     text-transform: uppercase;
 }
 
+.p-obs{
+    margin: 1px;
+}
+
 #obs{
     padding: 10px;
     width: 350px;
